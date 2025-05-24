@@ -121,6 +121,28 @@ Este projeto é um script em Python que captura as teclas digitadas no teclado d
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # 💻 Execução do Projeto (Testes)
 
+    • Keylogger iniciado "Vamos capturar algumas teclas meu pequeno hacker." Precione ESC para encerrar.
+
+
+      [14:53:57] Janela ativa: Nova guia - Google Chrome
+      keylogger[ENTER]
+      
+      
+      [14:54:08] Janela ativa: YouTube - Google Chrome
+      [CAPSLOCK]E[CAPSLOCK]minem[ENTER]
+      
+      
+      [14:54:21] Janela ativa: Prompt de Comando
+      cd[ENTER]
+      
+      
+      [14:54:27] Janela ativa: keylogger.py - Keylogger - Visual Studio Code
+      [CAPSLOCK]E
+      
+      [14:54:29] Janela ativa: â— keylogger.py - Keylogger - Visual Studio Code
+      AI[ESPAÇO]PESSOAL[ESPAÇO]DO[ESPAÇO]GITHUB[ENTER]
+      NOTAS[ESPAÇO]PARA[ESPAÇO]ESTE[ESPAÇO]PROJETO[ESC]
+
 
 
 
