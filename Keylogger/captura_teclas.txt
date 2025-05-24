@@ -1,3 +1,0 @@
-
-
-[02:04:01] Janela ativa: captura_teclas.txt - Keylogger - Visual Studio Code
