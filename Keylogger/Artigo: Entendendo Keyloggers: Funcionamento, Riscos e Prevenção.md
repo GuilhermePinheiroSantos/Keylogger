@@ -133,6 +133,8 @@ Embora seja mais comumente associado a ataques cibernéticos, o uso de keylogger
 
 O uso de keyloggers é altamente sensível do ponto de vista legal e ético. Em muitos países, sua utilização sem o consentimento explícito do usuário é considerada crime de invasão de privacidade ou acesso indevido a dados. Mesmo em contextos profissionais, é essencial que os envolvidos sejam notificados e que a prática esteja de acordo com políticas de conformidade e normas regulatórias, como a LGPD (Lei Geral de Proteção de Dados) no Brasil ou o GDPR na União Europeia.
 
+⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤
+
 ### 🚨 Os perigos do uso ilegal
 
   * A utilização de keyloggers sem o consentimento explícito da pessoa monitorada pode ser considerada uma forma grave de violação de privacidade, acarretando consequências jurídicas sérias:
